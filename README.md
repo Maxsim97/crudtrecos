@@ -1,2 +1,2 @@
-# crudtrecos
- cadastro de qualquer coisa em python
+# CRUDTrecos
+Um gerenciador de coleções em Python, Flask e MySQL.
