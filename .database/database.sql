@@ -63,7 +63,7 @@ INSERT INTO usuario (
 ), (
     'Setembrino Trocatapas',
     '1998-12-14',
-    'setbrino@email.com',
+    'setbrino@emacomil.',
     SHA1('Senha123')
 );
 
